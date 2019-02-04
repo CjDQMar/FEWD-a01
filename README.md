@@ -5,7 +5,7 @@ FEWD assignment 1
 
 Greetings, my name is **C.J.** I am an artist, _**designer, and aspiring front-end web developer**_.
 
-These are a few activities that I enjoy:
+# These are a few activities that I enjoy:
 
 * Creating art through a variety of mediums.
 * Being active, especially outdoors.
@@ -22,6 +22,6 @@ I was born and raised in Texas, I haven't lived there since.The places i have li
 
 Here's an image of what i like to do when I have spare time:
 
-![Art supplies](https://www.pexels.com/photo/assorted-color-artwork-equipment-set-1053687/)
+![alttext](https://images.pexels.com/photos/1053687/pexels-photo-1053687.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
 I currently do not have an active social media account, so I'll just pretend [instagram](https://www.instagram.com/)
