@@ -20,8 +20,8 @@ I was born and raised in Texas, I haven't lived there since.The places i have li
 5. San Diego, CA
 6. Next destination-*unknown*
 
-Here's a photo of me in a previous life as a tattoo artist:
+Here's an image of what i like to do when I have spare time:
 
-![CJ tattooing](FEWD-a01/CJtattoo.jpg)
+![Art supplies](https://www.pexels.com/photo/assorted-color-artwork-equipment-set-1053687/)
 
 I currently do not have an active social media account, so I'll just pretend [instagram](https://www.instagram.com/)
